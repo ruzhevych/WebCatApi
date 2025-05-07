@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/WebCatApi.csproj": {}
+    "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj": {}
   },
   "projects": {
-    "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/WebCatApi.csproj": {
+    "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/WebCatApi.csproj",
+        "projectUniqueName": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
         "projectName": "WebCatApi",
-        "projectPath": "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/WebCatApi.csproj",
+        "projectPath": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
         "packagesPath": "/Users/ssd/.nuget/packages/",
-        "outputPath": "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/obj/",
+        "outputPath": "/Users/ssd/It-step/wbApi/WebCatApi/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[9.0.3, )"
@@ -100,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/ssd/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

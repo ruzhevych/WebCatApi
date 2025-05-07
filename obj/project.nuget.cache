@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BqxNqPpRDFU=",
+  "dgSpecHash": "EnOR30KLll0=",
   "success": true,
-  "projectFilePath": "/Users/ssd/It-step/IT_Step/wbApi/WebCatApi/WebCatApi.csproj",
+  "projectFilePath": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
   "expectedPackageFiles": [
+    "/Users/ssd/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/ssd/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ssd/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.3/microsoft.aspnetcore.authentication.jwtbearer.9.0.3.nupkg.sha512",
     "/Users/ssd/.nuget/packages/microsoft.aspnetcore.cryptography.internal/9.0.3/microsoft.aspnetcore.cryptography.internal.9.0.3.nupkg.sha512",

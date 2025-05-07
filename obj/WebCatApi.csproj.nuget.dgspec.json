@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj": {}
+    "/Users/ssd/It-step/WebCatApi/WebCatApi/WebCatApi.csproj": {}
   },
   "projects": {
-    "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj": {
+    "/Users/ssd/It-step/WebCatApi/WebCatApi/WebCatApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
+        "projectUniqueName": "/Users/ssd/It-step/WebCatApi/WebCatApi/WebCatApi.csproj",
         "projectName": "WebCatApi",
-        "projectPath": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
+        "projectPath": "/Users/ssd/It-step/WebCatApi/WebCatApi/WebCatApi.csproj",
         "packagesPath": "/Users/ssd/.nuget/packages/",
-        "outputPath": "/Users/ssd/It-step/wbApi/WebCatApi/obj/",
+        "outputPath": "/Users/ssd/It-step/WebCatApi/WebCatApi/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

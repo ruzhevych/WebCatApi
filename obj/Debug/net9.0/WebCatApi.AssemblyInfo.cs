@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCatApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd0c4b5a7a9e4348bd02f1bd5c246dedfa65b3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79cce640bc0c22fa89644081a6ccd53c186716c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCatApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCatApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

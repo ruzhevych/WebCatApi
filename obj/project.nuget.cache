@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EnOR30KLll0=",
+  "dgSpecHash": "7+DKBqDIJG0=",
   "success": true,
-  "projectFilePath": "/Users/ssd/It-step/wbApi/WebCatApi/WebCatApi.csproj",
+  "projectFilePath": "/Users/ssd/It-step/WebCatApi/WebCatApi/WebCatApi.csproj",
   "expectedPackageFiles": [
     "/Users/ssd/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/ssd/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
